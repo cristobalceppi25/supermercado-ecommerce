@@ -56,7 +56,7 @@ export function Header() {
     <header className="header">
       <div className="left">
         <Link to="/" className="logo">
-          Supermercado
+          Supermercado Ecommerce
         </Link>
 
         <Filters

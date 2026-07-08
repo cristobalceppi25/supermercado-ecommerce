@@ -4,6 +4,25 @@ Este es un proyecto de práctica desarrollado en React y Typescript que permite 
 
 ---
 
+## 📸 Vista previa
+
+### Página principal
+
+![Página principal](./screenshots/Home.jpg)
+
+
+### Carro de compra
+
+![Carro de compra](./screenshots/Carro_de_compra.jpg)
+
+
+### Checkout
+
+![Checkout](./screenshots/Checkout.jpg)
+
+
+---
+
 ## 🎯 Objetivos del proyecto 
 
 Este proyecto fue construido desde cero para abordar los siguientes retos técnicos:
@@ -55,7 +74,7 @@ Este proyecto fue construido desde cero para abordar los siguientes retos técni
 ## 📦 Instalación y Ejecución Local
 
 ```bash
-git clone https://github.com/tuusuario/react-supermarket.git
+git clone https://github.com/cristobalceppi25/supermercado-ecommerce.git
 ```
 
 Entra al proyecto:
