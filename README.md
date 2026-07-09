@@ -2,6 +2,7 @@
 
 Este es un proyecto de práctica desarrollado en React y Typescript que permite la visualización de productos, administración de un carro de compras y completar la compra mediante un proceso de checkout.
 
+🔗 **Demo:** https://supermercado-ecommerce.vercel.app/
 ---
 
 ## 📸 Vista previa
